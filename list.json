@@ -1,0 +1,30 @@
+[
+  {
+    "name": "echarts-custom"
+  },
+  {
+    "name": "typescript"
+  },
+  {
+    "name": "threejs"
+  },
+  {
+    "name": "zrender"
+  },
+  {
+    "name": "webgl"
+  },
+  {
+    "name": "vue3.2",
+    "variants": [
+      {
+        "name": "vue3.2",
+        "display": "TypeScript"
+      },
+      {
+        "name": "vue3.2-ts",
+        "display": "TypeScript"
+      }
+    ]
+  }
+]
