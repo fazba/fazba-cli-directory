@@ -22,7 +22,11 @@
         "display": "TypeScript"
       },
       {
-        "name": "vue3.2-ts",
+        "name": "vue3.2-project",
+        "display": "TypeScript"
+      },
+      {
+        "name": "vue3.2-mobile-project",
         "display": "TypeScript"
       }
     ]
